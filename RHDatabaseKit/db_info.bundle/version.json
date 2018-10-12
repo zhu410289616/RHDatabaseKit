@@ -1,0 +1,13 @@
+{
+    "version":1,
+    "script":[
+        {
+            "version":1,
+            "sql":"1_script.sql"
+        },
+        {
+            "version":3,
+            "sql":"3_script.sql"
+        }
+    ]
+}
